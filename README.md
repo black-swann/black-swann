@@ -1,5 +1,7 @@
 # betnbd
 
+Linux desktop tools, local automation experiments, and small systems projects.
+
 ## Linux Desktop Tools
 
 - [AgentBar](https://github.com/betnbd/agentbar-menubar) - GNOME/Linux tray app for tracking provider usage, reset windows, spend, and status.
@@ -14,6 +16,6 @@
 
 - [Cryptonomicon CLI](https://github.com/betnbd/cryptonomicon-cli) - Small Python cryptocurrency and blockchain prototype with wallets, mining, transfers, and validation.
 
-## Profile
+## Notes
 
-- [GitHub profile repository](https://github.com/betnbd/betnbd)
+Some active projects are private while they are still being shaped.
