@@ -12,11 +12,3 @@ Linux desktop tools, local automation experiments, and small systems projects.
 ## Command-Line Projects
 
 - [Cryptonomicon CLI](https://github.com/betnbd/cryptonomicon-cli) - Small Python cryptocurrency and blockchain prototype with wallets, mining, transfers, and validation.
-
-## Notes
-
-Some active projects are private while they are still being shaped.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
