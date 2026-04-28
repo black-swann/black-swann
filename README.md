@@ -16,3 +16,7 @@ Linux desktop tools, local automation experiments, and small systems projects.
 ## Notes
 
 Some active projects are private while they are still being shaped.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
