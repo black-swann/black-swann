@@ -2,6 +2,10 @@
 
 Linux desktop tools, local automation experiments, and small systems projects.
 
+## Agent Security
+
+- [Warder](https://github.com/betnbd/warder) - Linux safety layer for running local AI agents with protected zones, supervised sessions, and readable receipts.
+
 ## Linux Desktop Tools
 
 - [GNOME Taskbar Tweaker](https://github.com/betnbd/gnome-taskbar-tweaker) - GNOME Shell extension for reordering supported top-panel items.
